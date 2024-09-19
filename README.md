@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-My Name Is Yorch
+Soy el Jorgitos locos
 
 ## 🤓 Course overview and learning outcomes 
 
