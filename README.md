@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Soy el Jorgitos locos
+Esto esta rarito
 
 ## 🤓 Course overview and learning outcomes 
 
